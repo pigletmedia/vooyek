@@ -1,0 +1,8 @@
+{
+  "name": "vooyek",
+  "version": "1.0.0",
+  "description": "Baby Activity Tracking",
+  "main": "index.js",
+  "author": "Jacek Pawel Polus",
+  "license": "MIT"
+}
